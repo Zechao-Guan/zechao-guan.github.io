@@ -1,5 +1,5 @@
 ---
-title: "Worked on applying multimodal foundation models to pothole detection in autonomous driving."
+title: "Worked on Applying Multimodal Foundation Models to Pothole Detection in Autonomous Driving"
 date: 2024-07-01 00:01:00 +0800
 selected: true  # 是否高亮显示 (true/false)
 
