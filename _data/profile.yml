@@ -43,7 +43,7 @@ short_bio: >-
     If you are interested in collaborating, please feel free to reach out via email or WeChat.
   </p>
 
-portrait_url: /assets/images/photos/profile.jpg
+portrait_url: /assets/images/photos/profile.png
 portrait_caption: >-
   Light is always waiting to bloom in the darkness.
 
@@ -59,7 +59,7 @@ education:
 
 experience:
 - name: Xpeng
-  logo: /assets/images/badges/Xpeng.png
+  logo: /assets/images/badges/xpeng.png
   position: Multimodal and Computer Vision Intern (Pre-Research Department of the Robotics Center, <strong>Human-Computer Interaction and VLA Team</strong>)
   date: Mar. 2025 - May 2025
 
