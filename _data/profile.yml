@@ -37,62 +37,45 @@ short_bio: >-
 
   <p>
     <i class="fa-solid fa-rectangle-ad" style="color: #d60000;"></i> 
-    <span style="color: #d60000;">I am looking for collaborators and interns interested in 3D Computer Vision, Multimodal Foundation Models, and applying these technologies to tasks involving Discrimination👁, Generation🤔, and Action🤖.
+    <span style="color: #d60000;">I am looking for collaborators and interns</span> 
+    interested in 3D Computer Vision, Multimodal Foundation Models, and applying these technologies to tasks involving Discrimination👁, Generation🤔, and Action🤖.
     I believe that deep learning models can effectively leverage multimodal information—such as text, images, point clouds, and topology—to understand complex 3D spatial structures, thereby enhancing their ability for perception, reasoning, and interaction in both physical and virtual environments.
     If you are interested in collaborating, please feel free to reach out via email or WeChat.
   </p>
 
 portrait_url: /assets/images/photos/profile.jpg
 portrait_caption: >-
-  Serve the cat, rule the world.
+  Light is always waiting to bloom in the darkness.
 
 education:
-- name: University of Southern California
-  logo: /assets/images/badges/usc.png
-  position: M.S. in Spatial Data Science
-  date: Aug. 2023 - present
-- name: Nanjing Audit University
-  logo: /assets/images/badges/NAU.png
-  position: B.A. in Economics, Finance
+- name: Southeast University
+  logo: /assets/images/badges/seu.png
+  position: M.S. in Mathematics
+  date: Sep. 2022 - present
+- name: Guangdong University of Technology
+  logo: /assets/images/badges/GDUT.png
+  position: B.A. in Applied Mathematics
   date: Sep. 2018 - Jul. 2022
 
 experience:
-- name: The Hong Kong University of Science and Technology (Guangzhou)
-  logo: /assets/images/badges/UST.svg.png
-  position: Research Assistant - AI4City Lab
-  date: Aug. 2024 - Present
+- name: Xpeng
+  logo: /assets/images/badges/Xpeng.png
+  position: Multimodal and Computer Vision Intern (Pre-Research Department of the Robotics Center, <strong>Human-Computer Interaction and VLA Team</strong>)
+  date: Mar. 2025 - May 2025
 
-- name: Harvard University
-  logo: /assets/images/badges/Harvard.png
-  position: Research Assistant - Spatial Data Lab
+- name: Meituan
+  logo: /assets/images/badges/meituan.png
+  position: Multimodal and Computer Vision Intern (Basic Research and Development Department, <strong>VLA Team</strong>)
   date: May. 2024 - Sep. 2024
 
-- name: City of Hope
-  logo: /assets/images/badges/COH.png
-  position: Data Science Intern
-  date: Feb. 2024 - May. 2024
-
-- name: The Hong Kong Polytechnic University
-  logo: /assets/images/badges/PolyU.svg_.png
-  position: Research Assistant
-  date: Sep. 2023 - May. 2024
-
-- name: NetEase Youdao
-  logo: /assets/images/badges/youdaojfif.jfif
-  position: Data Analyst Intern
-  date: Jan. 2023 - Apr. 2023
 
 
 awards:
-- name: 2025 AAG GISS Student Paper Competition Honorable Mention
-  date: Mar. 2025
-- name: 2025 EIP Student of the Year Award
-  date: Mar. 2025
-- name: Most Suitably Applied Analysis Methodology Award
-  date: Feb. 2025
-- name: Bronze medal in Kaggle's Child Mind Institute - Detect Sleep States
-  date: Jan. 2024
+- name: National Second Prize in Mathematical Modeling for Postgraduate Students
+  date: Dec. 2022
+- name: National Second Prize in Mathematical Modeling for Chinese College Students
+  date: Sep. 2020
 - name: Outstanding Graduate Award
   date: Jun. 2022
-- name: Provincial Champion of The World Mandarin Debating Championship
-  date: Sep. 2020
+- name: Top Ten Young People of Guangdong University of Technology
+  date: Jan. 2022
