@@ -1,6 +1,6 @@
 ---
 title: "Multimodal Fusion for Localization, Autonomous Planning, and 3D Point Cloud Recognition on Unmanned Platforms"
-date: 2024-07-01 00:01:00 +0800
+date: 2023-12-01 00:01:00 +0800
 selected: true  # 是否高亮显示 (true/false)
 
 description: >-
