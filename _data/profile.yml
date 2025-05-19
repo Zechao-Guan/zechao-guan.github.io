@@ -19,7 +19,7 @@ wechat_prompt: >-
 linkedin: 则潮-关-58639730a
 orcid: 0009-0009-8707-2261
 
-
+# Currently, I am seeking a <strong>Ph.D. position</strong> starting in Fall 2025.
 short_bio_text_justify: false
 short_bio: >-
   <p>
@@ -28,7 +28,6 @@ short_bio: >-
            style="float: left; width: 350px; margin-right: 10px; border-radius: 8px;">
   </p>
 
-# Currently, I am seeking a <strong>Ph.D. position</strong> starting in Fall 2025.
   <p>
     I am fortunate to be advised by <a href="https://math.seu.edu.cn/lqs_2339_en/list.htm" target="_blank">Qingshan liu</a> at the Key Laboratory of Collective Intelligence of Cyberspace, Jiangsu Province.
     Prior to this, I obtained a Bachelor of Applied Mathematics from 
