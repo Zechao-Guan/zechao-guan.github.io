@@ -5,5 +5,5 @@ date: 2023-06-12 00:01:00 +0800
 group: Not Just Research
 ---
 <div>
-    <img data-src="{{ 'assets/images/etc/5.jpg' | relative_url }}" class="lazy w-100 rounded" src="{{ '/assets/images/etc/5.jpg' | relative_url }}" data-toggle="tooltip" data-placement="top" title="MAGATAMA PLAN">
+    <img data-src="{{ 'assets/images/etc/4.jpg' | relative_url }}" class="lazy w-100 rounded" src="{{ '/assets/images/etc/4.jpg' | relative_url }}" data-toggle="tooltip" data-placement="top" title="Take Photo">
 </div>
