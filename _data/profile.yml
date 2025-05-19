@@ -28,8 +28,8 @@ short_bio: >-
            style="float: left; width: 350px; margin-right: 10px; border-radius: 8px;">
   </p>
 
+# Currently, I am seeking a <strong>Ph.D. position</strong> starting in Fall 2025.
   <p>
-    # Currently, I am seeking a <strong>Ph.D. position</strong> starting in Fall 2025.
     I am fortunate to be advised by <a href="https://math.seu.edu.cn/lqs_2339_en/list.htm" target="_blank">Qingshan liu</a> at the Key Laboratory of Collective Intelligence of Cyberspace, Jiangsu Province.
     Prior to this, I obtained a Bachelor of Applied Mathematics from 
     <a href="https://www.gdut.edu.cn/" target="_blank">Guangdong University of Technology</a>.
@@ -73,7 +73,7 @@ experience:
 awards:
 - name: National Second Prize in Mathematical Modeling for Postgraduate Students
   date: Dec. 2022
-- name: National Second Prize in Mathematical Modeling for Chinese College Students
+- name: National Second Prize in Mathematical Modeling for College Students
   date: Sep. 2020
 - name: Outstanding Graduate Award
   date: Jun. 2022
