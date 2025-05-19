@@ -24,7 +24,7 @@ short_bio_text_justify: false
 short_bio: >-
   <p>
     I am a third-year master's student from the <a href="https://math.seu.edu.cn/" target="_blank">School of Mathematics</a>, <a href="https://www.seu.edu.cn/" target="_blank">Southeast University</a>. My primary research interests are in 3D computer vision, multimodal large models, AIGC, embodied intelligence, topological data analysis and machine learning. 
-  <img src="assets/images/photos/interest_.png" alt="Research Interests" 
+  <img src="assets/images/photos/interest.png" alt="Research Interests" 
            style="float: left; width: 350px; margin-right: 10px; border-radius: 8px;">
   </p>
 
@@ -42,7 +42,7 @@ short_bio: >-
     If you are interested in collaborating, please feel free to reach out via email or WeChat.
   </p>
 
-portrait_url: /assets/images/photos/profile.png
+portrait_url: /assets/images/photos/_profile.png
 portrait_caption: >-
   Light is always waiting to bloom in the darkness.
 
