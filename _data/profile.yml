@@ -29,7 +29,7 @@ short_bio: >-
   </p>
 
   <p>
-    Currently, I am seeking a <strong>Ph.D. position</strong> starting in Fall 2025.
+    # Currently, I am seeking a <strong>Ph.D. position</strong> starting in Fall 2025.
     I am fortunate to be advised by <a href="https://math.seu.edu.cn/lqs_2339_en/list.htm" target="_blank">Qingshan liu</a> at the Key Laboratory of Collective Intelligence of Cyberspace, Jiangsu Province.
     Prior to this, I obtained a Bachelor of Applied Mathematics from 
     <a href="https://www.gdut.edu.cn/" target="_blank">Guangdong University of Technology</a>.
@@ -38,7 +38,7 @@ short_bio: >-
   <p>
     <i class="fa-solid fa-rectangle-ad" style="color: #d60000;"></i> 
     <span style="color: #d60000;">I am looking for collaborators and interns</span> 
-    interested in 3D Computer Vision, Multimodal Foundation Models, and applying these technologies to tasks involving Discrimination👁, Generation🤔, and Action🤖.
+    interested in 3D Computer Vision, Multimodal Foundation Models, and applying these technologies to tasks involving Discrimination👀, Generation🤔, and Action🤖.
     I believe that deep learning models can effectively leverage multimodal information—such as text, images, point clouds, and topology—to understand complex 3D spatial structures, thereby enhancing their ability for perception, reasoning, and interaction in both physical and virtual environments.
     If you are interested in collaborating, please feel free to reach out via email or WeChat.
   </p>
