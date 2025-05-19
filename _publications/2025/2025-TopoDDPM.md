@@ -8,8 +8,8 @@ pub_post:       'OnGoing'
 #pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
 pub_date:       "2025"
 
-abstract: >-
-We propose TopoDDPM, a novel topological diffusion model that integrates topological features as shape-informed latent variables. We further introduce a topological loss function to enhance the model's sensitivity to topological variations, encouraging the generation of shapes with more consistent and meaningful topology. Despite having 160× fewer parameters than LION, TopoDDPM achieves superior generation quality and faster inference speed.
+# abstract: >-
+# We propose TopoDDPM, a novel topological diffusion model that integrates topological features as shape-informed latent variables. We further introduce a topological loss function to enhance the model's sensitivity to topological variations, encouraging the generation of shapes with more consistent and meaningful topology. Despite having 160× fewer parameters than LION, TopoDDPM achieves superior generation quality and faster inference speed.
 
 cover:  assets/images/covers/2025-Attention-Diff.png
 authors:
