@@ -4,6 +4,7 @@ width: 3
 date: 2024-06-12 00:01:00 +0800
 group: Not Just Research
 ---
+---
 <div>
-<img src="{{ 'assets/images/etc/2.jpg' | relative_url }}" class="img-fluid rounded" >
+    <img data-src="{{ 'assets/images/etc/2.jpg' | relative_url }}" class="lazy w-100 rounded" src="{{ '/assets/images/etc/2.jpg' | relative_url }}" data-toggle="tooltip" data-placement="top" title="Take Photo">
 </div>
