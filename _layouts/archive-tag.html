@@ -1,0 +1,27 @@
+---
+layout: default
+---
+<div class="tag-archive">
+  <h1>Posts tagged with "{{ page.title }}"</h1>
+  
+  <div class="tag-posts">
+    {% for post in page.posts %}
+      <article class="post-preview">
+        <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+        <div class="post-meta">
+          <time datetime="{{ post.date | date_to_xmlschema }}">
+            {{ post.date | date: "%Y-%m-%d" }}
+          </time>
+          {% if post.author %}
+            • {{ post.author }}
+          {% endif %}
+        </div>
+        {% if post.excerpt %}
+          <div class="post-excerpt">
+            {{ post.excerpt }}
+          </div>
+        {% endif %}
+      </article>
+    {% endfor %}
+  </div>
+</div> 

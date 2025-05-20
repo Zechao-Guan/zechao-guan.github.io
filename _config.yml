@@ -19,18 +19,20 @@ baseurl: "/homepage" # the subpath of your site, e.g. /blog
 markdown: kramdown
 plugins:
   - jekyll-email-protect
+  - jekyll-archives
+  - jekyll-paginate
+  - jekyll-sitemap
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .idea
+  - .git
 
 # timezone: Asia/Shanghai
 
@@ -39,3 +41,36 @@ collections:
   - news
   - showcase
   - projects
+  - posts
+
+# Blog settings
+paginate: 5
+paginate_path: "/page:num/"
+
+# Archives settings
+jekyll-archives:
+  enabled:
+    - categories
+    - tags
+  layouts:
+    category: archive-category
+    tag: archive-tag
+  permalinks:
+    category: '/categories/:name/'
+    tag: '/tags/:name/'
+
+# Kramdown settings
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "Your Name"
+      comments: true
+      share: true
