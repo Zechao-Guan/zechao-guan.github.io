@@ -17,11 +17,10 @@ baseurl: "/homepage" # the subpath of your site, e.g. /blog
 
 # Build settings
 markdown: kramdown
-plugins:
-  - jekyll-email-protect
-  - jekyll-archives
-  - jekyll-paginate
-  - jekyll-sitemap
+kramdown:
+  syntax_highlighter: rouge
+  input: GFM
+  hard_wrap: false
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -31,8 +30,9 @@ exclude:
   - Gemfile.lock
   - node_modules
   - vendor
-  - .idea
   - .git
+  - .github
+  - .idea
 
 # timezone: Asia/Shanghai
 
@@ -41,30 +41,17 @@ collections:
   - news
   - showcase
   - projects
-  - posts
 
-# Blog settings
-paginate: 5
-paginate_path: "/page:num/"
+# 博客配置
+permalink: /blog/:year/:month/:day/:title/
 
-# Archives settings
-jekyll-archives:
-  enabled:
-    - categories
-    - tags
-  layouts:
-    category: archive-category
-    tag: archive-tag
-  permalinks:
-    category: '/categories/:name/'
-    tag: '/tags/:name/'
+# 插件配置
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
-# Kramdown settings
-kramdown:
-  math_engine: mathjax
-  syntax_highlighter: rouge
-
-# Defaults
+# 默认布局
 defaults:
   - scope:
       path: ""
@@ -72,5 +59,3 @@ defaults:
     values:
       layout: "post"
       author: "Your Name"
-      comments: true
-      share: true

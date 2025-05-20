@@ -1,0 +1,45 @@
+---
+layout: default
+title: Tags
+permalink: /tags/
+---
+
+<div class="container">
+    <h1>标签</h1>
+    
+    <div class="tags-list">
+        {% assign tags = site.tags | sort %}
+        {% for tag in tags %}
+        <div class="tag-section" id="{{ tag[0] | slugify }}">
+            <h2>{{ tag[0] }} ({{ tag[1] | size }})</h2>
+            <div class="posts-list">
+                {% for post in tag[1] %}
+                <article class="post-item">
+                    <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+                    <div class="post-meta">
+                        <span class="post-date">{{ post.date | date: "%Y-%m-%d" }}</span>
+                    </div>
+                </article>
+                {% endfor %}
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+</div>
+
+<style>
+.tag-section {
+    margin-bottom: 2rem;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid #eee;
+}
+
+.post-item {
+    margin-bottom: 1rem;
+}
+
+.post-meta {
+    color: #666;
+    font-size: 0.9rem;
+}
+</style> 
