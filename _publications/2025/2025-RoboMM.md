@@ -1,10 +1,10 @@
 ---
 title:          "RoboMM: All-in-One Multimodal Large Model for Robotic Manipulation"
-date:           2024-12-10 00:01:00 +0800
+date:           2025-06-28 00:01:00 +0800
 selected:       true
 #pub:            ""
 # pub_pre:        "Under Review"
-pub_post:       'ICCV'
+pub_post:       'Accepted to ICCV 2025'
 #pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
 pub_date:       "2025"
 
