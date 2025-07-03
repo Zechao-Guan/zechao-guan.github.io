@@ -4,7 +4,7 @@ date:           2024-12-10 00:01:00 +0800
 selected:       true
 #pub:            ""
 # pub_pre:        "Under Review"
-pub_post:       'Under Review'
+pub_post:       'ICCV'
 #pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
 pub_date:       "2025"
 
