@@ -23,7 +23,7 @@ orcid: 0009-0009-8707-2261
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    I am a third-year master's student from the <a href="https://math.seu.edu.cn/" target="_blank">School of Mathematics</a>, <a href="https://www.seu.edu.cn/" target="_blank">Southeast University</a>. I am a third-year master's student at the School of Mathematics, Southeast University. My research focuses on 3D computer vision, including multimodal foundation models (<strong>VLMs and VLAs for embodied intelligence</strong>), 3D generative AI (<strong>3D AIGC</strong>), and the integration of topological data analysis with machine learning.
+  I graduated from the <a href="https://math.seu.edu.cn/" target="_blank">School of Mathematics</a>, <a href="https://www.seu.edu.cn/" target="_blank">Southeast University</a>. My research focuses on 3D computer vision, including multimodal foundation models (<strong>VLMs and VLAs for embodied intelligence</strong>), 3D generative AI (<strong>3D AIGC</strong>), and the integration of topological data analysis with machine learning.
   <img src="assets/images/photos/interest.jpg" alt="Research Interests" 
            style="float: left; width: 350px; margin-right: 10px; border-radius: 8px;">
   </p>
@@ -50,7 +50,7 @@ education:
 - name: Southeast University
   logo: /assets/images/badges/seu.png
   position: M.S. in Mathematics
-  date: Sep. 2022 - present
+  date: Sep. 2022 - Jul. 2025
 - name: Guangdong University of Technology
   logo: /assets/images/badges/GDUT.png
   position: B.A. in Applied Mathematics
@@ -60,7 +60,7 @@ experience:
 - name: Xpeng
   logo: /assets/images/badges/xpeng.png
   position: Multimodal and Computer Vision Intern (Pre-Research Department of the Robotics Center, <strong>Human-Computer Interaction and VLA Team</strong>)
-  date: Mar. 2025 - May 2025
+  date: Mar. 2025 - present
 
 - name: Meituan
   logo: /assets/images/badges/meituan.png
