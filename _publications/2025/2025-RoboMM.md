@@ -4,7 +4,7 @@ date:           2025-06-28 00:01:00 +0800
 selected:       true
 #pub:            ""
 # pub_pre:        "Under Review"
-pub_post:       'Accepted to ICCV 2025'
+pub_post:       'Accepted to ICCV'
 #pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
 pub_date:       "2025"
 
