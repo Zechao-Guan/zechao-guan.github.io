@@ -1,0 +1,39 @@
+---
+title:          "Beyond Single-Sample: Reliable Multi-Sample Distillation for Video Understanding"
+date:           2026-03-01 00:01:00 +0800
+selected:       true
+#pub:            ""
+#pub_pre:        ""
+pub_post:       'UnderReview'
+#pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
+pub_date:       "2026"
+
+abstract: >-
+    Traditional black-box distillation for Large Vision-Language Models (LVLMs) typically relies on a single teacher response per input, which often yields high-variance responses and format inconsistencies in multimodal or temporal scenarios. To mitigate this unreliable supervision, we propose R-MSD (Reliable Multi-Sample Distillation), a framework that explicitly 
+    models teacher sampling variance to enhance distillation stability. Rather than 
+    relying on a single teacher response, our approach leverages a task-adaptive 
+    teacher pool to provide robust supervision tailored to both closed-ended and 
+    open-ended reasoning. By integrating quality-aware signal matching with an
+    adversarial distillation objective, our approach effectively filters teacher 
+    noise while maximizing knowledge transfer. Extensive evaluations across comprehensive 
+    video understanding benchmarks demonstrate that R-MSD consistently outperforms 
+    single sample distillation methods. We additionally include an original SFT+RL
+    4B baseline under the same training budget, which shows only marginal gains,
+    while our method achieves significant improvements.
+    With a 4B student model, our approach delivers gains
+    on VideoMME (+1.5%), Video-MMMU (+3.2%), and MathVerse (+3.6%).
+
+cover:  assets/images/covers/2026-R-MSD.PNG
+authors:
+  - Songlin Li
+  - Xin Zhu
+  - Zechao Guan
+  - Peipeng Chen
+  - Jian Yao
+
+links:
+Paper: https://arxiv.org/pdf/2603.11423
+# Code: https://github.com/Zechao-Guan/TopoDiT-3D
+# Videos: https://github.com/Zechao-Guan/TopoDiT-3D
+#  Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
+---
