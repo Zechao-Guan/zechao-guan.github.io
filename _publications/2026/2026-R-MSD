@@ -23,7 +23,7 @@ abstract: >-
     With a 4B student model, our approach delivers gains
     on VideoMME (+1.5%), Video-MMMU (+3.2%), and MathVerse (+3.6%).
 
-cover:  assets/images/covers/2026-R-MSD.PNG
+cover:  /assets/images/covers/2026-R-MSD.PNG
 authors:
   - Songlin Li
   - Xin Zhu
@@ -32,7 +32,7 @@ authors:
   - Jian Yao
 
 links:
-Paper: https://arxiv.org/pdf/2603.11423
+  Paper: https://arxiv.org/pdf/2603.11423
 # Code: https://github.com/Zechao-Guan/TopoDiT-3D
 # Videos: https://github.com/Zechao-Guan/TopoDiT-3D
 #  Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
