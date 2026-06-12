@@ -23,7 +23,7 @@ abstract: >-
     With a 4B student model, our approach delivers gains
     on VideoMME (+1.5%), Video-MMMU (+3.2%), and MathVerse (+3.6%).
 
-cover:  /assets/images/covers/2026-R-MSD.PNG
+cover:  /assets/images/covers/2026-R-MSD.png
 authors:
   - Songlin Li
   - Xin Zhu
