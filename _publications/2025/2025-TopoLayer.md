@@ -17,7 +17,7 @@ authors:
   - Qingshan Liu#
 
 links:
-# Paper: https://arxiv.org/abs/2409.19527
+  Paper: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=pym43_8AAAAJ&citation_for_view=pym43_8AAAAJ:qjMakFHDy7sC
   Code: https://github.com/Zechao-Guan/TopoLayer
 #   Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
 ---
